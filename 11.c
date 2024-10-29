@@ -35,5 +35,6 @@ int main(void)
             zero++;
         }
     }
+    
     printf("\nPositive==%d\nNegative==%d\nEven==%d\nOdd==%d\nZero==%d",pos,neg,even,odd,zero);
 }
